@@ -1,2 +1,2 @@
 # url_shortner
-This is apython development based project.
+This is a python development based project.
